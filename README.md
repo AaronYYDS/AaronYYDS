@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/AaronYYDS"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronYYDS&title_color=ff6347&text_color=000080&layout=compact&bg_color=30,00FFFF,40E0D0,00CED1" height=145 /></a>
 
 <details><summary>Find ME</summary>
-  TG：<a href:'https://t.me/aaron_yes'>Aaron</a>
+  TG：<a href="https://t.me/aaron_yes">Aaron</a>
 
 
 
